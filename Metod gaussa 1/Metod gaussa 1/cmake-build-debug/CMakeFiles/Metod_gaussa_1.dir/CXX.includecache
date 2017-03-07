@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ponkratova/Documents/3 семестр/Жалнин/Metod gaussa 1/main.cpp
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+fstream
+-
+cstdio
+-
+math.h
+-
+

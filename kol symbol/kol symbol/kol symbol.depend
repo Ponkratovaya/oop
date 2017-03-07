@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486707401 source:z:\4 семестр\Масягин\kol symbol\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
